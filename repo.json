@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "PlayerScope",
+    "Author": "SicakBirTebessüm",
+    "Punchline": "Track players and retainers.",
+    "Description": "Keeps track of players and who a retainer belongs to. Alt characters can also be tracked if they have been seen before.\n--Currently only for whitelisted players.",
+    "AssemblyVersion": "1.0.5.9",
+    "InternalName": "PlayerScope",
+    "RepoUrl": "https://discord.gg/rsT3hSUNmm",
+    "IconUrl": "https://gitflic.ru/project/sedatpeker/pscope/blob/raw?file=icon.png",
+    "DownloadLinkInstall": "https://github.com/ralphwj/attem/blob/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ralphwj/attem/blob/main/latest.zip",
+    "DownloadCount": 3213,
+    "DalamudApiLevel": 11,
+    "LastUpdate": 1736942046,
+    "Changelog": "- Interface improvements and minor bug fixes for the local database\n- About tab",
+    "Tags": [ "player", "search", "retainer", "track", "account" ]
+  }
+]
